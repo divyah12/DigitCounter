@@ -1,6 +1,6 @@
 //**************************************************************
 //                   Project #0 Digit Processing
-//                   Name: Divyashree H B
+//                   Name: Divya
 //                   Algorithms 5243 Date: 01/25/2016
 //***************************************************************
 //      Basically, This program reads the dataset from a file and 
